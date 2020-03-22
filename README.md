@@ -58,5 +58,3 @@ Coloque um nome para o modelo e click no botão CONTINUAR
 Coloque 8 node hours e click no botão INICIAR TREINAMENTO
 ![Captura de Tela (117)](https://user-images.githubusercontent.com/49367122/77258701-1c3ffa00-6c5b-11ea-8482-f6b3647c8ae9.png)
 ![Captura de Tela (118)](https://user-images.githubusercontent.com/49367122/77258778-996b6f00-6c5b-11ea-92dd-1ff3540ce8e1.png)
-648-4e463586c7f8.png)
-
