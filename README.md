@@ -29,4 +29,4 @@ Cada pasta deve conter o nome da pessoa ou personagem e etc..
 11º Baixe o script para criar o arquivo csv e enviar para bucket no link do meu github wget https://raw.githubusercontent.com/JuanFariasGit/Classificar_imagens_no_Cloud_com_o_AutoML_Vision/master/criar_csv.sh <br>
 12º Der permissão de execução para o arquivo <br>
 13º Execute o código <br>
-![Captura de Tela (105)](https://user-images.githubusercontent.com/49367122/77256708-ab92e080-6c4e-11ea-908f-e553c1d1520b.png)
+14º Click no botão Atualizar
