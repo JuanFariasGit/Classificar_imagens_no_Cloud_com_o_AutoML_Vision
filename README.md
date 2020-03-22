@@ -45,5 +45,6 @@ Selecione a opção "Selecionar um arquivo CSV no Cloud Storage" <br>
 Click no botão browse
 ![Captura de Tela (109)](https://user-images.githubusercontent.com/49367122/77257903-ed735500-6c55-11ea-9f60-88e28e66e13c.png)
 
-Selecione o arquivo CSV e Click no botão SELECT
+Selecione o arquivo CSV e Click no botão SELECT <br>
+Depois Click no botão CONTINUAR
 ![Captura de Tela (110)](https://user-images.githubusercontent.com/49367122/77257966-522eaf80-6c56-11ea-9eb6-bef03b18a2b4.png)
