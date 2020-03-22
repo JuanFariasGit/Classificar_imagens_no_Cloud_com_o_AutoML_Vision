@@ -15,5 +15,8 @@ Ao abrir irá aparecer o bucket que você acabou de criar <br>
 Click no nome do bucket
 ![Captura de Tela (100)_LI](https://user-images.githubusercontent.com/49367122/77255340-5dc5aa80-6c45-11ea-882e-c1119817b4e2.jpg)
 
-Faça upload de pastas das imagens
+Faça upload de pastas
 ![Captura de Tela (102)_LI](https://user-images.githubusercontent.com/49367122/77255746-8a2ef600-6c48-11ea-9398-f01e9f467324.jpg)
+Cada pasta deve conter as imagens de apenas uma pessoa ou personagem e etc.. <br>
+Cada pasta deve conter o nome da pessoa ou personagem e etc 
+![Captura de Tela (101)](https://user-images.githubusercontent.com/49367122/77255812-f90c4f00-6c48-11ea-8d52-35523bc82557.png)
