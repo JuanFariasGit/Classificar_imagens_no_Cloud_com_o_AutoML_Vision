@@ -11,4 +11,4 @@
 ![Captura de Tela (99)_LI](https://user-images.githubusercontent.com/49367122/77254956-f9095080-6c42-11ea-8b40-80628d91d9f5.jpg)
 
 Depois vá no menu navegação > storage > navegador <br>
-
+![Captura de Tela (100)_LI](https://user-images.githubusercontent.com/49367122/77255340-5dc5aa80-6c45-11ea-882e-c1119817b4e2.jpg)
