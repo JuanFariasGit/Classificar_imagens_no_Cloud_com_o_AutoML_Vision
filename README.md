@@ -40,3 +40,5 @@ Coloque o nome do conjunto de dados <br>
 Selecione classificação de rótulo único <br>
 Click no botão CRIAR CONJUNTO DE DADOS
 ![Captura de Tela (107)](https://user-images.githubusercontent.com/49367122/77257480-560d0280-6c53-11ea-8897-dd566232bcd7.png)
+
+![Captura de Tela (108)](https://user-images.githubusercontent.com/49367122/77257790-41316e80-6c55-11ea-9447-46d09e425e7d.png)
