@@ -49,4 +49,5 @@ Selecione o arquivo CSV e Click no botão SELECT <br>
 Depois Click no botão CONTINUAR
 ![Captura de Tela (110)](https://user-images.githubusercontent.com/49367122/77257966-522eaf80-6c56-11ea-9eb6-bef03b18a2b4.png)
 ![Captura de Tela (112)](https://user-images.githubusercontent.com/49367122/77258196-c61d8780-6c57-11ea-9893-816e76797cea.png)
+![Captura de Tela (113)](https://user-images.githubusercontent.com/49367122/77258442-5e683c00-6c59-11ea-85d7-30d1d2a03f1c.png)
 
