@@ -51,3 +51,5 @@ Depois Click no botão CONTINUAR
 ![Captura de Tela (112)](https://user-images.githubusercontent.com/49367122/77258196-c61d8780-6c57-11ea-9893-816e76797cea.png)
 ![Captura de Tela (113)](https://user-images.githubusercontent.com/49367122/77258442-5e683c00-6c59-11ea-85d7-30d1d2a03f1c.png)
 
+Click no botão INICIAR TREINAMENTO
+![Captura de Tela (114)](https://user-images.githubusercontent.com/49367122/77258603-5066eb00-6c5a-11ea-9337-b1e053f03bc1.png)
