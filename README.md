@@ -55,3 +55,5 @@ Click no botão INICIAR TREINAMENTO
 ![Captura de Tela (116)](https://user-images.githubusercontent.com/49367122/77258642-b2275500-6c5a-11ea-9195-2eb5e2b090d7.png)
 Coloque um nome para o modelo e click no botão CONTINUAR 
 ![Captura de Tela (114)](https://user-images.githubusercontent.com/49367122/77258603-5066eb00-6c5a-11ea-9337-b1e053f03bc1.png)
+Coloque 8 node hours
+![Captura de Tela (117)](https://user-images.githubusercontent.com/49367122/77258701-1c3ffa00-6c5b-11ea-8482-f6b3647c8ae9.png)
