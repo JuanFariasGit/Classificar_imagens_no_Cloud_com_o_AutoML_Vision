@@ -1,0 +1,1 @@
+# Classificar_imagens_no_Cloud_com_o_AutoML_Vision
