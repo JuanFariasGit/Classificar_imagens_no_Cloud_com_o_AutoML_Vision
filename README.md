@@ -35,3 +35,7 @@ Cada pasta deve conter o nome da pessoa ou personagem e etc..
 Percepção Visual > conjunto de dados
 Click no botão NOVO CONJUTO DE DADOS
 ![Captura de Tela (107)_LI](https://user-images.githubusercontent.com/49367122/77257125-1c3afc80-6c51-11ea-9b65-12e5a2fec035.jpg)
+
+Coloque o nome do cujudo de dados <br>
+Selecione classificação de rótulo único
+![Captura de Tela (107)](https://user-images.githubusercontent.com/49367122/77257480-560d0280-6c53-11ea-8897-dd566232bcd7.png)
