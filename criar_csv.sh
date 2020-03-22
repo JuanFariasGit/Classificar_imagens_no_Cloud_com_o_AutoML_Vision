@@ -7,4 +7,4 @@ do
   echo $j","$i >> data.csv
  done
 done
-
+gsutil cp data.csv gs://$BUCKET_NAME/
