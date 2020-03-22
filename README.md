@@ -3,3 +3,5 @@
 1º Crie o seu projeto <br>
 2º Selecioner o projeto criado <br>
 3º Click em abrir
+
+![image](https://user-images.githubusercontent.com/49367122/77254705-8d72b380-6c41-11ea-8603-ce8fcbd44776.png)
