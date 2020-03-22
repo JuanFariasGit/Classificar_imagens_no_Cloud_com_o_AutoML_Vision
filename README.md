@@ -32,3 +32,6 @@ Cada pasta deve conter o nome da pessoa ou personagem e etc..
 14º Click no botão Atualizar
 ![Captura de Tela (106)_LI](https://user-images.githubusercontent.com/49367122/77256946-1690e700-6c50-11ea-8515-00be226c89c1.jpg)
 
+Percepção Visual > conjunto de dados
+Click no botão NOVO CONJUTO DE DADOS
+![Captura de Tela (107)_LI](https://user-images.githubusercontent.com/49367122/77257125-1c3afc80-6c51-11ea-9b65-12e5a2fec035.jpg)
