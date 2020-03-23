@@ -21,8 +21,10 @@ Click no nome do bucket
 Faça upload das pastas
 
 ![Captura de Tela (102)_LI](https://user-images.githubusercontent.com/49367122/77255746-8a2ef600-6c48-11ea-9398-f01e9f467324.jpg)
+
 Cada pasta deve conter as imagens de apenas uma pessoa ou personagem e etc.. <br>
 Cada pasta deve conter o nome da pessoa ou personagem e etc.. 
+
 ![Captura de Tela (101)](https://user-images.githubusercontent.com/49367122/77255812-f90c4f00-6c48-11ea-8d52-35523bc82557.png)
 
 8º Baixe o script para numerar as imagens no link do meu github wget https://raw.githubusercontent.com/JuanFariasGit/Classificar_imagens_no_Cloud_com_o_AutoML_Vision/master/numerar_imagens.sh <br>
