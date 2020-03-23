@@ -34,6 +34,7 @@ Cada pasta deve conter o nome da pessoa ou personagem e etc..
 12º Der permissão de execução para o arquivo <br>
 13º Execute o código <br>
 14º Click no botão Atualizar
+
 ![Captura de Tela (106)_LI](https://user-images.githubusercontent.com/49367122/77256946-1690e700-6c50-11ea-8515-00be226c89c1.jpg)
 
 Percepção Visual > conjunto de dados <br>
