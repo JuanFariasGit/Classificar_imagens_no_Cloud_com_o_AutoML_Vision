@@ -9,6 +9,7 @@
 5º Criar uma variavel de ambiente para o nome do bucket chamada BUCKET_NAME <br>
 6º Verificar se a variavel de ambiente foi criada corretamente <br>
 7º Criar um bucket <br>
+
 ![Captura de Tela (99)_LI](https://user-images.githubusercontent.com/49367122/77254956-f9095080-6c42-11ea-8b40-80628d91d9f5.jpg)
 
 Depois vá no menu navegação > storage > navegador <br>
