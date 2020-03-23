@@ -75,5 +75,5 @@ Coloque 8 node hours e click no botão INICIAR TREINAMENTO
 
 ![Captura de Tela (117)](https://user-images.githubusercontent.com/49367122/77258701-1c3ffa00-6c5b-11ea-8482-f6b3647c8ae9.png)
 ![Captura de Tela (118)](https://user-images.githubusercontent.com/49367122/77258778-996b6f00-6c5b-11ea-92dd-1ff3540ce8e1.png)
-![Captura de Tela (119)](https://user-images.githubusercontent.com/49367122/77260315-d6d4fa00-6c65-11ea-8e66-354d332a0e11.png![image](https://user-images.githubusercontent.com/49367122/77326582-c3bf3a00-6cf8-11ea-80eb-68ace5fee4f0.png)
+![image](https://user-images.githubusercontent.com/49367122/77326582-c3bf3a00-6cf8-11ea-80eb-68ace5fee4f0.png)
 
