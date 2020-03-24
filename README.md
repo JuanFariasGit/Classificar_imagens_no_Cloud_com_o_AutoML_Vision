@@ -33,6 +33,8 @@ Cada pasta deve conter o nome da pessoa ou personagem e etc..
 
 ![Captura de Tela (103)_LI](https://user-images.githubusercontent.com/49367122/77256291-0d058000-6c4c-11ea-9316-52c4b7ee9cd5.jpg)
 
+O arquivo csv deve ser separado por , (virgula) e deve conter o caminho GCS(google cloud storage) e o label que é o nome da pasta da imagem exemplo: gs://BUCKUT-NAME/imagen.jpg,label. O script que criei faz isso de forma automatica. 
+
 11º Baixe o script para criar o arquivo csv e enviar para bucket no link do meu github wget https://raw.githubusercontent.com/JuanFariasGit/Classificar_imagens_no_Cloud_com_o_AutoML_Vision/master/criar_csv.sh <br>
 12º Der permissão de execução para o arquivo <br>
 13º Execute o código <br>
