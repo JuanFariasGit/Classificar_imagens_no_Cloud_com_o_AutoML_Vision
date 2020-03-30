@@ -34,7 +34,7 @@ O arquivo csv deve ser separado por , (virgula) e deve conter o caminho GCS(goog
 10º Execute o código <br>
 11º Click no botão Atualizar
 
-![Captura de Tela (118)](https://user-images.githubusercontent.com/49367122/77944689-c6400780-7295-11ea-9e75-7489e45b54ed.png)
+![Captura de Tela (108)_LI](https://user-images.githubusercontent.com/49367122/77944937-2a62cb80-7296-11ea-9036-2bdea94ef112.jpg)
 
 Percepção Visual > conjunto de dados <br>
 Click no botão NOVO CONJUTO DE DADOS
