@@ -1,3 +1,5 @@
+
+
 # Classificar_imagens_no_Cloud_com_o_AutoML_Vision
 1º Crie o seu projeto <br>
 2º Selecioner o projeto criado <br>
@@ -29,7 +31,7 @@ Cada pasta deve conter o nome da pessoa ou personagem e etc..
 
 O arquivo csv deve ser separado por , (virgula) e deve conter o caminho GCS(google cloud storage) e o label que é o nome da pasta da imagem exemplo: gs://BUCKUT-NAME/pasta/1.jpg, label. O script que criei faz isso de forma automatica. 
 
-8º Baixe o script para criar o arquivo csv e enviar para bucket no link do meu github wget https://raw.githubusercontent.com/JuanFariasGit/Classificar_imagens_no_Cloud_com_o_AutoML_Vision/master/criar_csv.sh <br>
+8º Baixe o script para criar o arquivo csv e enviar para bucket no link do meu github https://raw.githubusercontent.com/JuanFariasGit/Classificar_imagens_no_Cloud_com_o_AutoML_Vision/master/criar_csv.sh <br>
 9º Der permissão de execução para o arquivo <br>
 10º Execute o código <br>
 11º Click no botão Atualizar
