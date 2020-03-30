@@ -29,12 +29,12 @@ Cada pasta deve conter o nome da pessoa ou personagem e etc..
 
 O arquivo csv deve ser separado por , (virgula) e deve conter o caminho GCS(google cloud storage) e o label que é o nome da pasta da imagem exemplo: gs://BUCKUT-NAME/pasta/1.jpg, label. O script que criei faz isso de forma automatica. 
 
-11º Baixe o script para criar o arquivo csv e enviar para bucket no link do meu github wget https://raw.githubusercontent.com/JuanFariasGit/Classificar_imagens_no_Cloud_com_o_AutoML_Vision/master/criar_csv.sh <br>
-12º Der permissão de execução para o arquivo <br>
-13º Execute o código <br>
-14º Click no botão Atualizar
+8º Baixe o script para criar o arquivo csv e enviar para bucket no link do meu github wget https://raw.githubusercontent.com/JuanFariasGit/Classificar_imagens_no_Cloud_com_o_AutoML_Vision/master/criar_csv.sh <br>
+9º Der permissão de execução para o arquivo <br>
+10º Execute o código <br>
+11º Click no botão Atualizar
 
-![Captura de Tela (106)_LI](https://user-images.githubusercontent.com/49367122/77256946-1690e700-6c50-11ea-8515-00be226c89c1.jpg)
+![Captura de Tela (118)](https://user-images.githubusercontent.com/49367122/77944689-c6400780-7295-11ea-9e75-7489e45b54ed.png)
 
 Percepção Visual > conjunto de dados <br>
 Click no botão NOVO CONJUTO DE DADOS
